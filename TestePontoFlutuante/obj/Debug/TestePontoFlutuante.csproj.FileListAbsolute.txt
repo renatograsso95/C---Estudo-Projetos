@@ -1,0 +1,6 @@
+C:\Users\1513 X-MXTI\source\repos\AprendendoCSharp\TestePontoFlutuante\obj\Debug\TestePontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\1513 X-MXTI\source\repos\AprendendoCSharp\TestePontoFlutuante\bin\Debug\TestePontoFlutuante.exe.config
+C:\Users\1513 X-MXTI\source\repos\AprendendoCSharp\TestePontoFlutuante\bin\Debug\TestePontoFlutuante.exe
+C:\Users\1513 X-MXTI\source\repos\AprendendoCSharp\TestePontoFlutuante\bin\Debug\TestePontoFlutuante.pdb
+C:\Users\1513 X-MXTI\source\repos\AprendendoCSharp\TestePontoFlutuante\obj\Debug\TestePontoFlutuante.exe
+C:\Users\1513 X-MXTI\source\repos\AprendendoCSharp\TestePontoFlutuante\obj\Debug\TestePontoFlutuante.pdb
